@@ -1,5 +1,13 @@
 # CIS4820 Final Project - Sprite Fight
 
+This was my final project submission for CIS4820 at the University of Guelph.
+
+I received a 100% on this project and finished CIS4820 with a final grade of 100% which I am very proud of.
+
+I plan on continuing to explore Unity to explore realtime rendering applications since this is what I am currently interested in.
+
+The next thing I plan on learning is proceduralism in Unity or maybe implementing a ray marcher to compare the Unity Rendering Pipeline to my own Ray Marcher.
+
 ## Instructions for project setup:
 
 1. Locate Assets->Scenes Folder
