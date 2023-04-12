@@ -6,7 +6,7 @@ The game performs great on all Windows/Mac/Linux machines when built, but there 
 
 Unfortunately I could not get a WebGL build of the game working on itch.io due to a bug caused by Unity's Post Processing Package failing to locate a compute shader kernel.
 
-I plan on continuing to explore Unity to explore realtime rendering applications since this is what I am currently interested in.
+I plan on continuing to work with Unity to explore realtime rendering applications since this is what I am currently interested in.
 
 The next thing I plan on learning is proceduralism in Unity or maybe implementing a Ray Marcher to compare the Unity Rendering Pipeline to my own Ray Marcher.
 
