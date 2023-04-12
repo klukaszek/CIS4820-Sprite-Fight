@@ -1,8 +1,7 @@
 # CIS4820 Final Project - Sprite Fight
+## I received a 100% on this project and finished CIS4820 with a final grade of 100% which I am very proud of.
 
 This was my final project submission for CIS4820 at the University of Guelph.
-
-**I received a 100% on this project and finished CIS4820 with a final grade of 100% which I am very proud of.**
 
 I plan on continuing to explore Unity to explore realtime rendering applications since this is what I am currently interested in.
 
