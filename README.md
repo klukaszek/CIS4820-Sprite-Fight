@@ -1,4 +1,4 @@
-# CIS4820-Final-Project---Sprite-Fight
+# CIS4820 Final Project - Sprite Fight
 
 ## Instructions for project setup:
 
