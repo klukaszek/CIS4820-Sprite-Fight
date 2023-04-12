@@ -2,6 +2,10 @@
 
 **I received a 100% on this project and finished CIS4820 with a final grade of 100% which I am very proud of.**
 
+The game performs great on all Windows/Mac/Linux machines when built, but there are some performance issues caused by the Unity Editor when working on the project (profiled using Unity profiler).
+
+Unfortunately I could not get a WebGL build of the game working on itch.io due to a bug caused by Unity's Post Processing Package failing to locate a compute shader kernel.
+
 I plan on continuing to explore Unity to explore realtime rendering applications since this is what I am currently interested in.
 
 The next thing I plan on learning is proceduralism in Unity or maybe implementing a Ray Marcher to compare the Unity Rendering Pipeline to my own Ray Marcher.
