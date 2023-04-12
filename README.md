@@ -10,10 +10,11 @@ The next thing I plan on learning is proceduralism in Unity or maybe implementin
 
 ## Instructions for project setup:
 
-1. Locate Assets->Scenes Folder
-2. Open Assets->Scenes Folder
-3. Locate "Main Menu" Scene
-4. Double click "Main Menu" Scene
+1. Open Sprite Fight folder in Unity and let it install the Library folder.
+2. Locate Assets->Scenes Folder
+3. Open Assets->Scenes Folder
+4. Locate "Main Menu" Scene
+5. Double click "Main Menu" Scene
 
 ### Controls:
 	W - A - S - D / Left Stick: Movement
